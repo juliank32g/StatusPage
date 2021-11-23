@@ -63,7 +63,7 @@ params:
   categories:
     - name: On Prem
       description: On-Premises Anwendungen auf dem Flur-Server
-      closed: true
+      closed: false
     - name: Hosted
       description: Anwendungen, die nicht auf dem Flur-Server gehostet sind
       closed: true
