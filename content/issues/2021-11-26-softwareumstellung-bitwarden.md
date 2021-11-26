@@ -10,6 +10,6 @@ affected:
   - Bitwarden
 severity: notice
 ---
-*Information* - Aufgrund einer Softwareumstellung kann es zu der angegebenen Zeit zu Zugriffsproblemen kommen. Es ist keine nutzerseitige Aktion erforderlich, alle Daten und Passwörter werden übernommen.
-
 *Erledigt* - Die Softwareumstellung wurde durchgeführt
+
+*Information* - Aufgrund einer Softwareumstellung kann es zu der angegebenen Zeit zu Zugriffsproblemen kommen. Es ist keine nutzerseitige Aktion erforderlich, alle Daten und Passwörter werden übernommen.
