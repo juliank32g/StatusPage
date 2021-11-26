@@ -45,7 +45,7 @@ params:
       category: On Prem
     - name: E-Mail
       category: Hosted
-  dateFormat: January 2, 2006 at 3:04 PM UTC
+  dateFormat: 02.01.2006 15:04 CET
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
